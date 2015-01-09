@@ -1,0 +1,2 @@
+windows下github软件安装：http://blog.csdn.net/chinahaerbin/article/details/17716023
+Git客户端TortoiseGit软件的安装与使用说明：http://download.csdn.net/detail/wowchina22/6821931
